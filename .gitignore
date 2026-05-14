@@ -42,3 +42,10 @@ migrate_working_dir/
 **/ios/.symlinks/
 **/ios/Runner/GeneratedPluginRegistrant.h
 **/ios/Runner/GeneratedPluginRegistrant.m
+
+# Security/Secrets
+*.keystore
+*.jks
+key.properties
+.env
+.env.*
